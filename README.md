@@ -1,1 +1,3 @@
-# osu-cs361-main-program
+# Main Program
+
+Main program for OSU CS 361
